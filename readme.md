@@ -1,4 +1,4 @@
-# bootstrap odev 1
+# frontend - bootstrap odev 1
 
 müzik dükkanı ödevi. 
 3 sayfa olacak.
