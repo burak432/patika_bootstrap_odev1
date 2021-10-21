@@ -1,0 +1,10 @@
+body {
+  background-color: #e9ecef;
+}
+
+.urunres {
+  max-width: 300px; /* You can set the dimensions to whatever you want */
+  max-height: 300px;
+  object-fit: contain;
+  margin: 3em auto;
+}
